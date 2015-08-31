@@ -1,6 +1,11 @@
 #EFREI - C++
-Ici, vous retrouverez des travaux effectués en L'3 au sein de l'EFREI.
+Some projects done at EFREI.
 
-Here, you'll find some projects done while I was in EFREI in 3rd year.
+###Mini-project L'3 2015
+By Jerome Nicolas & Alexandre Ravaux
+ 
+* [Subject](https://github.com/nerdyprog/EFREI_Cpp/blob/master/Projet-LP3_2015/Mini-projet_C_L_3_-_2015.pdf) [FR]
+* [Report](https://github.com/nerdyprog/EFREI_Cpp/blob/master/Projet-LP3_2015/nicolas-ravaux_rapport.pdf) [FR]
 
-[Mini-projet L'3 2015]()
+###License
+[Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)
